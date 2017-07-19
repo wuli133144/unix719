@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "conf.c": "cpp",
+        "common.h": "c",
+        "http_config.h": "c",
+        "utils.h": "c",
+        "epoll_circle.h": "c",
+        "sock.h": "c",
+        "http_module.h": "c",
+        "unix_error.h": "c",
+        "epoll_inc.h": "c",
+        "http_io.h": "c",
+        "file_client.c": "cpp",
+        "rio_r_w.h": "c"
+    }
+}
